@@ -37,7 +37,7 @@ Pour se connecter, un utilisateur doit saisir son identifiant ainsi que son mot 
 
 Nous mettrons à jour ce README avec le diagramme d'activités une fois qu'il sera terminé.
 
-![Diagramme d'activités](/Diagramme%20activité.drawio.png)
+![Diagramme d'activités](/Diagramme%20activité.png)
 ## Technologies
 
 Le logiciel sera une application web. Les technologies spécifiques utilisées seront déterminées à une date ultérieure.
